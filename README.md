@@ -64,8 +64,8 @@
 | ----------------------------------------------------------------| :---------------: |
 | udemy.com/Learn Python Programming                              | 02/2023 - 03/2022 |
 | udemy.com/Complete Web & Mobile Designer: UI/UX, Figma          | 06/2023 - 07/2023 |
-| udemy.com/Kotlin for Android: Beginner to Advanced              | 10/2023 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
+| udemy.com/Kotlin for Android: Beginner to Advanced              | 10/2023 - 03/2023 |
+| alif.academy/Андроид разработчик                                | 01/2024 - 04/2024 |
 
 ---
 
